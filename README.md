@@ -1,4 +1,4 @@
-# AYLYCMIDI
+# NEGGGGIMIDI
 - AYLYCが制作した音MAD(主にREDZONEMAD)の耳コピMIDI
 # 元動画の制作者様へ
 - このMIDI削除してほしいなどありましたら https://twitter.com/negggggggggi にお願いします
