@@ -10,7 +10,7 @@
   - これはできればで大丈夫です
 # その他
 - midiのここ間違ってるよって言うのあったらIssuesにお願いします
-- forkなどでここのMIDIを修正したり改変したりしたものを上げても構いません
+- ここのMIDIを修正したり改変したりしたものを上げても構いません(ここから修正したなどURLを貼ること)
 # 元動画制作者
 - サチさん
   - kousoku k zone(拘束された[[@.k. ZONEたち)
@@ -20,6 +20,4 @@
 - ふゆげさん
   - Wind_K(Wind_K)
 - Sitoron!さん
-  - AMITIE ZONE(AMITIE ZONE)
-- ゐくかわ先輩さん
-  - MERMAID KIYOTASO(まーめいどきよたそ)(映像)
+  - AMITIE ZONE(AMITIE ZONE)(音声)
