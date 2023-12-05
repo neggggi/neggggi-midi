@@ -15,6 +15,8 @@
 - サチさん
   - kousoku k zone(拘束された[[@.k. ZONEたち)
   - MERMAID KIYOTASO(まーめいどきよたそ)(音声)
+  - ろうすぴーど最俺っどぞーん
+  - へるがー
 - つぶさん
   - torimaaaaaa(とりまーーー)
 - ふゆげさん
@@ -24,6 +26,5 @@
   - YOUKAI ZONE AMITIE
   - PRISTINE YOSHI ZONE
   - PRISTINE MARLE ZONE
-  - 
 - ぞねアレンジ
   - REISEN ZONE
