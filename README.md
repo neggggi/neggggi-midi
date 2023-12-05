@@ -18,6 +18,12 @@
 - つぶさん
   - torimaaaaaa(とりまーーー)
 - ふゆげさん
-  - Wind_K(Wind_K)
+  - Wind_K
 - Sitoron!さん
-  - AMITIE ZONE(AMITIE ZONE)(音声)
+  - AMITIE ZONE(音声)
+  - YOUKAI ZONE AMITIE
+  - PRISTINE YOSHI ZONE
+  - PRISTINE MARLE ZONE
+  - 
+- ぞねアレンジ
+  - REISEN ZONE
